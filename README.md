@@ -5,7 +5,7 @@
   <summary>🪴 Más info...</summary>
   
   - Me gusta el sushi 🍣  
-  - TikTok: [click me](https://www.tiktok.com/@senwy.exe)
+  - [click me](https://www.tiktok.com/@senwy.exe)
 
 </details>
 
