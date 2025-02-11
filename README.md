@@ -1,23 +1,19 @@
-<h1>👋 Hello World!</h1>
+# 👋 Hello World!
 
-<h3>  
-  Actual estudiante de desarrollo web, apasionado del mundo de la programación 💻 ✨  
-</h3>
+### Actual estudiante de desarrollo web, apasionado del mundo de la programación 💻 ✨  
 
-<h4>Sobre mí:</h4>
+#### Sobre mí:
 <ul>
   <li>🚀 Estoy aprendiendo <strong>JS, Angular, Symfony</strong></li>
   <li>📚 Quiero y seré desarrollador <strong>fullstack</strong></li>
   <li>📓 Estudio desarrollo web en Madrid</li>
 </ul>
 
-<h4>
-  Te invito a visitar mi <a href="https://www.linkedin.com/in/david-cruz-casado-9819a9234/">perfil</a> en LinkedIn
-</h4>
+#### Te invito a visitar mi [perfil](https://www.linkedin.com/in/david-cruz-casado-9819a9234/) en LinkedIn
 
-<h4>Link a mi <a href="#">portafolio web</a></h4>
+#### Link a mi portafolio web
 
-<h4>Languages and Tools:</h4>
+#### Languages and Tools:
 <p style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" />
