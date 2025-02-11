@@ -11,8 +11,6 @@
 
 #### Te invito a visitar mi [perfil](https://www.linkedin.com/in/david-cruz-casado-9819a9234/) en LinkedIn
 
-#### Link a mi portafolio web
-
 #### Languages and Tools:
 <p style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
