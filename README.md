@@ -26,10 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" alt="React.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"  />
   
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" alt="windows" width="50" height="50" />
  </p>
