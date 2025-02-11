@@ -7,11 +7,11 @@
  <a href="">Link Portafolio Web</a>
 </h4>
 
-<h4>Sobre mi: </h4>
+<h4>About me: </h4>
 
 - 🚀 Estoy aprendiendo <b> JS, Angular, Symfony </b>
 
-- 📚 Soy desarrollador fullstack
+- 📚 Quiero ser desarrollador full-stack
 
 - 📓 Estudio desarrollo web en Madrid.
   
