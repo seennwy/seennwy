@@ -1,16 +1,37 @@
-# 👋 Hello World!
-¡Bienvenido a mi perfil de GitHub! 👨‍💻 💡
+<h1>Hi 👋 Hello World!</h1>
+<h3">
+  Current web development student, passionate about the world of programming!!!! 💻
+</h3>
 
-<details>
-  <summary>🪴 Más info...</summary>
+<h4>
+ <a href="">Link Portafolio Web</a>
+</h4>
+
+<h4>Sobre mi: </h4>
+
+- 🚀 Estoy aprendiendo <b> JS, Angular, Symfony </b>.
+
+- 📚 Soy desarrollador fullstack
+
+- 📓 Estudio desarrollo web en Madrid.
   
-  - Me gusta el sushi 🍣  
-  - [click me](https://www.tiktok.com/@senwy.exe)
+<h3>
+  Te invito a visitar mi perfil en LinkedIn 
+  <a href="https://www.linkedin.com/in/david-cruz-casado-9819a9234/">Ver perfil</a>
+</h3>
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" />
 
-</details>
-
-
-<!---
-seennwy/seennwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50" /> 
+ </p>
