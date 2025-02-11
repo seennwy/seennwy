@@ -13,7 +13,7 @@
 
 - 📚 Quiero ser desarrollador full-stack
 
-- 📓 Estudio desarrollo web en Madrid.
+- 📓 Estudio desarrollo web en Madrid
   
 <h3>
   Te invito a visitar mi perfil en LinkedIn 
