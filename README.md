@@ -9,7 +9,7 @@
 
 <h4>Sobre mi: </h4>
 
-- 🚀 Estoy aprendiendo <b> JS, Angular, Symfony </b>.
+- 🚀 Estoy aprendiendo <b> JS, Angular, Symfony </b>
 
 - 📚 Soy desarrollador fullstack
 
@@ -32,6 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50" /> 
  </p>
