@@ -1,4 +1,4 @@
-<h1>Hi 👋 Hello World!</h1>
+<h1>👋 Hello World!</h1>
 <h3">
   Current web development student, passionate about the world of programming!!!! 💻
 </h3>
